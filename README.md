@@ -167,7 +167,7 @@ Git clone the repo and run it, pursuant to the following clone address
 
 git clone https://github.com/NERDDFO/ethdenver
 
-cd ethdenver
+cd ethdenver/packages/nextjs
 
 yarn install
 
@@ -183,6 +183,11 @@ The following image shows the index page running the app.
 ## ![Screenshot of LenScholar index page](images/LensIndex.png) <br>
 
 <br>
+## Contributor
+Carlos Vera
+Matt Cornell
+Raghu Reddy
+Jeff Smith
 
 ## License
 
